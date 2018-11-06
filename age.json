@@ -1,4 +1,4 @@
-[
+var ages= [
 
 {"name": "maria", "age": 20},
 {"name": "mafdsf", "age": 26},
